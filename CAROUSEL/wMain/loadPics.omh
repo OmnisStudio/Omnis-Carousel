@@ -1,0 +1,9 @@
+Calculate picnum as iPicNum
+For n from 1 to 8 step 1
+	Calculate path as con(replace(upp(sys(10)),'CAROUSEL.LBS','pic'),picnum,'.jpg')
+	Do $cwind.$objs.jpg[n].$path.$assign(path)
+	Calculate picnum as picnum+1
+	If picnum>8
+		Calculate picnum as 1
+	End If
+End For

@@ -1,0 +1,15 @@
+On evClick     ;; Event Parameters - pRow( Itemreference )
+	If iBusy=kTrue
+		Quit method
+	End If
+	
+	If iState=2
+		Do $cwind.$objs.trx1.$state1
+		Calculate iPicNum as iPicNum-1
+		If iPicNum<1
+			Calculate iPicNum as 8
+		End If
+	End If
+	Do method loadPics
+	
+	Do $cwind.$objs.trx1.$transform('$state2')

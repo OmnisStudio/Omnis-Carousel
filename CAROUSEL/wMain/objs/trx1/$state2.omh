@@ -1,0 +1,40 @@
+;  move all slides to position 2
+Do $iwindows.wMain.$objs.jpg8.$left.$assign(30)
+Do $iwindows.wMain.$objs.jpg8.$top.$assign(129)
+Do $iwindows.wMain.$objs.jpg8.$width.$assign(70)
+Do $iwindows.wMain.$objs.jpg8.$height.$assign(47)
+
+Do $iwindows.wMain.$objs.jpg1.$left.$assign(79)
+Do $iwindows.wMain.$objs.jpg1.$top.$assign(72)
+Do $iwindows.wMain.$objs.jpg1.$width.$assign(80)
+Do $iwindows.wMain.$objs.jpg1.$height.$assign(53)
+
+Do $iwindows.wMain.$objs.jpg2.$left.$assign(184)
+Do $iwindows.wMain.$objs.jpg2.$top.$assign(35)
+Do $iwindows.wMain.$objs.jpg2.$width.$assign(90)
+Do $iwindows.wMain.$objs.jpg2.$height.$assign(60)
+
+Do $iwindows.wMain.$objs.jpg3.$left.$assign(296)
+Do $iwindows.wMain.$objs.jpg3.$top.$assign(17)
+Do $iwindows.wMain.$objs.jpg3.$width.$assign(120)
+Do $iwindows.wMain.$objs.jpg3.$height.$assign(80)
+
+Do $iwindows.wMain.$objs.jpg4.$left.$assign(445)
+Do $iwindows.wMain.$objs.jpg4.$top.$assign(26)
+Do $iwindows.wMain.$objs.jpg4.$width.$assign(140)
+Do $iwindows.wMain.$objs.jpg4.$height.$assign(93)
+
+Do $iwindows.wMain.$objs.jpg5.$left.$assign(558)
+Do $iwindows.wMain.$objs.jpg5.$top.$assign(83)
+Do $iwindows.wMain.$objs.jpg5.$width.$assign(180)
+Do $iwindows.wMain.$objs.jpg5.$height.$assign(120)
+
+Do $iwindows.wMain.$objs.jpg6.$left.$assign(436)
+Do $iwindows.wMain.$objs.jpg6.$top.$assign(169)
+Do $iwindows.wMain.$objs.jpg6.$width.$assign(220)
+Do $iwindows.wMain.$objs.jpg6.$height.$assign(147)
+
+Do $iwindows.wMain.$objs.jpg7.$left.$assign(232)
+Do $iwindows.wMain.$objs.jpg7.$top.$assign(157)
+Do $iwindows.wMain.$objs.jpg7.$width.$assign(260)
+Do $iwindows.wMain.$objs.jpg7.$height.$assign(173)

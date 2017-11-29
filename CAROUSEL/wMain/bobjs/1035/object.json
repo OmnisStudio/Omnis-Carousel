@@ -1,0 +1,30 @@
+{
+	"ident": 1035,
+	"order": 16386,
+	"objtype": "kText",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "kColorBackFill",
+		"backpattern": 15,
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"fieldstyle": "",
+		"font": 4,
+		"fontsize": 10,
+		"fontstyle": "kBold,kItalic",
+		"forecolor": "kColorForeFill",
+		"height": 49,
+		"left": 14,
+		"objlink": 0,
+		"text": {
+			"type": 14,
+			"calc": "The carousel example works using two states. Pressing a button moves from one state to the other. The rotation effect is created by quickly switching to the previous state and re-assigning the images using a position counter."
+		},
+		"textcolor": "RGB(0,34,221)",
+		"top": 365,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 720
+	}
+}

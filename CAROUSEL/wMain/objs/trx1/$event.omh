@@ -1,0 +1,9 @@
+On evTransformComplete
+	If p2='$state1'
+		Calculate iState as 1
+	Else
+		Calculate iState as 2
+	End If
+	Calculate iBusy as kFalse
+On evTransformBegin
+	Calculate iBusy as kTrue
