@@ -1,6 +1,8 @@
 # Omnis-Carousel
 Demo library and images to demonstrate a rotating carousel using the Transform component. The library uses events to trigger a single transform object with two method states. (Note the Transform component is for Window classes only, not JS forms.)
 
+For more information about using the Transform window class component, see the tech note: http://www.omnis.net/technotes/tnxm0004.jsp
+
 Requires Omnis Studio 8.1.2 or above.
 
 ## Contents
